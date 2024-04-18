@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Ben WinterrrTR</h1>
+<h1 align="center">Merhaba 👋, Ben WinterrrTR</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=winterrrtr&label=Profile%20views&color=2edcb9&style=flat" alt="winterrrtr" /> </p>
 
