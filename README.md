@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=winterrrtr&label=Profile%20views&color=2edcb9&style=flat" alt="winterrrtr" /> </p>
 
-- 👨‍💻 İşte projelerim: [https://winterrrtr.com.tr](https://winterrrtr.com.tr) / [https://rusimc.xyz](https://rusimc.xyz) / [https://vanora.store](https://vanora.store) / [https://afkhesabim.com.tr](https://afkhesabim.com.tr)
+- 👨‍💻 İşte projelerim: [https://winterrrtr.com.tr](https://winterrrtr.com.tr) / [https://rusimc.xyz](https://mcturkey.com) / [https://vanora.store](https://minexla.com)
 
 - 📫 Bana ulaşabileceğiniz adres: **iletisim@winterrrtr.com.tr**
 
